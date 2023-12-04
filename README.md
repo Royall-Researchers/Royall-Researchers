@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Royall-Researchers
-- 👀 I’m interested in Ethical Hacking And Cyber Security
-- 🌱 I’m currently learning Engineering
-- 📫 How to reach me
-- 
+-
           ____                   _ _ 
          |  _ \ ___  _   _  __ _| | |
          | |_) / _ \| | | |/ _` | | |
@@ -15,7 +12,12 @@
         |  _ <  __/\__ \  __/ (_| | | | (__| | | |  __/ |  \__ \ 
         |_| \_\___||___/\___|\__,_|_|  \___|_| |_|\___|_|  |___/
        
-      
+  
+- 👀 I’m interested in Ethical Hacking And Cyber Security
+- 🌱 I’m currently learning in New Technologies
+- 📫 How to reach me
+
+-     
               [+]These Tools are Created by Royall Researchers 
               [+]The Tools is only for Educational Purpose 
               [+]no support for illegal or Un Ethical Activities 
@@ -32,6 +34,9 @@ You can Customize these tools
 the Tools are only for Educational Purpose 
 No Supports for Illegal or UnEthical Activities
 Give Support to Royall Researchers
+
+Languages 
+![Languages](https://img.shields.io/github/languages/count/Royall-Researcher/style=flat-square)
 
 <!---
 Royall-Researchers/Royall-Researchers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
