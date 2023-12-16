@@ -14,9 +14,9 @@
        
   
 - 👀 I’m interested in Ethical Hacking And Cyber Security
-- 🌱 I’m currently learning in New Technologies
+- 🌱 I’m currently learning in Programming and Networking
+- 🔭 I’m currently working on Hacking Tools Developer
 - 📫 How to reach me
-
 -     
               [+]These Tools are Created by Royall Researchers 
               [+]The Tools is only for Educational Purpose 
@@ -24,19 +24,14 @@
               [+]You can Learn More From me
               [+]Follow More InstaGram : https://instagram.com/royallresearchers 
               [+]Blog : https://royallresearchers.blogspot.com 
-              [+]Medium : https://medium.com/@royallresearchers 
+              [+]Medium : https://royallresearchers.medium.com
               [+]Quora : https://royallresearchers.quora.com 
-              [+]YouTube : https://yotube.com/@royallresearchers
-              [+]Facebook : https://fb.com/royallresearchers
 
 note: The Tools are Free and Open-Source.
 You can Customize these tools 
 the Tools are only for Educational Purpose 
 No Supports for Illegal or UnEthical Activities
 Give Support to Royall Researchers
-
-Languages 
-![Languages](https://img.shields.io/github/languages/count/Royall-Researcher/style=flat-square)
 
 <!---
 Royall-Researchers/Royall-Researchers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
