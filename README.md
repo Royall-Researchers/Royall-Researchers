@@ -28,13 +28,13 @@
               [+]Quora : https://royallresearchers.quora.com
 
 
-note: The Tools are Free and Open-Source.
+note: The Tools are Free and Open-Source. 
 You can Customize these tools 
-the Tools are only for Educational Purpose 
-No Supports for Illegal or UnEthical Activities
-Give Support to Royall Researchers
+the Tools are only for Educational Purpose No Supports for Illegal or UnEthical Activities 
+Give Support to Royall Researchers 
 
-![Alt Text](https://github.com/Royall-Researchers/Royall-Researchers/blob/main/abcd.gif)
+<img src="https://github.com/Royall-Researchers/Royall-Researchers/blob/main/abcd.gif" width="128" alt="Hacker"/>
+
 
 <!---
 Royall-Researchers/Royall-Researchers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
