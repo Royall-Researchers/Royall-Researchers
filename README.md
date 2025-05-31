@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Royall-Researchers
+- 👋 Hi, @Royall-Researchers
 -
           ____                   _ _ 
          |  _ \ ___  _   _  __ _| | |
@@ -16,17 +16,6 @@
 - 👀 I’m interested in Ethical Hacking And Cyber Security
 - 🌱 I’m currently learning in Programming and Networking
 - 🔭 I’m currently working on Hacking Tools Developer
-- 📫 How to reach me
--     
-              [+]These Tools are Created by Royall Researchers 
-              [+]The Tools is only for Educational Purpose 
-              [+]no support for illegal or Un Ethical Activities 
-              [+]You can Learn More From me
-              [+]Follow More InstaGram : https://instagram.com/royallresearchers 
-              [+]Blog : https://royallresearchers.blogspot.com 
-              [+]Medium : https://royallresearchers.medium.com
-              [+]Quora : https://royallresearchers.quora.com
-
 
 note: The Tools are Free and Open-Source. 
 You can Customize these tools 
